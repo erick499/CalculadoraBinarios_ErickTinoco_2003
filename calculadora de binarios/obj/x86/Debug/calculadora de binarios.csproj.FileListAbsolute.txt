@@ -1,0 +1,32 @@
+C:\Users\Lea\AppData\Local\Temporary Projects\calculadora de binarios\bin\Debug\calculadora de binarios.exe
+C:\Users\Lea\AppData\Local\Temporary Projects\calculadora de binarios\bin\Debug\calculadora de binarios.pdb
+C:\Users\Lea\AppData\Local\Temporary Projects\calculadora de binarios\obj\x86\Debug\calculadora_de_binarios.Form1.resources
+C:\Users\Lea\AppData\Local\Temporary Projects\calculadora de binarios\obj\x86\Debug\calculadora_de_binarios.Properties.Resources.resources
+C:\Users\Lea\AppData\Local\Temporary Projects\calculadora de binarios\obj\x86\Debug\calculadora de binarios.csproj.GenerateResource.Cache
+C:\Users\Lea\AppData\Local\Temporary Projects\calculadora de binarios\obj\x86\Debug\calculadora de binarios.exe
+C:\Users\Lea\AppData\Local\Temporary Projects\calculadora de binarios\obj\x86\Debug\calculadora de binarios.pdb
+C:\Users\seeduc\Desktop\calculadora de binarios\calculadora de binarios\obj\x86\Debug\calculadora de binarios.exe
+C:\Users\seeduc\Desktop\calculadora de binarios\calculadora de binarios\obj\x86\Debug\calculadora de binarios.pdb
+C:\Users\seeduc\Desktop\calculadora de binarios\calculadora de binarios\bin\Debug\calculadora de binarios.exe
+C:\Users\seeduc\Desktop\calculadora de binarios\calculadora de binarios\bin\Debug\calculadora de binarios.pdb
+C:\Users\seeduc\Desktop\calculadora de binarios\calculadora de binarios\obj\x86\Debug\calculadora_de_binarios.Form1.resources
+C:\Users\seeduc\Desktop\calculadora de binarios\calculadora de binarios\obj\x86\Debug\calculadora_de_binarios.Properties.Resources.resources
+C:\Users\seeduc\Desktop\calculadora de binarios\calculadora de binarios\obj\x86\Debug\calculadora de binarios.csproj.GenerateResource.Cache
+C:\Users\Lea\Desktop\calculadora de binarios2\calculadora de binarios\obj\x86\Debug\calculadora de binarios.exe
+C:\Users\Lea\Desktop\calculadora de binarios2\calculadora de binarios\obj\x86\Debug\calculadora de binarios.pdb
+C:\Users\Lea\Desktop\calculadora de binarios2\calculadora de binarios\bin\Debug\calculadora de binarios.exe
+C:\Users\Lea\Desktop\calculadora de binarios2\calculadora de binarios\bin\Debug\calculadora de binarios.pdb
+C:\Users\Lea\Desktop\calculadora de binarios2\calculadora de binarios\obj\x86\Debug\calculadora_de_binarios.Form1.resources
+C:\Users\Lea\Desktop\calculadora de binarios2\calculadora de binarios\obj\x86\Debug\calculadora_de_binarios.Properties.Resources.resources
+C:\Users\Lea\Desktop\calculadora de binarios2\calculadora de binarios\obj\x86\Debug\calculadora de binarios.csproj.GenerateResource.Cache
+C:\Users\Lea\Desktop\calculadora de binarios2\calculadora de binarios\obj\x86\Debug\calculadora de binarios.csprojResolveAssemblyReference.cache
+C:\Users\Lea\Desktop\calculadora de binarios3\calculadora de binarios\obj\x86\Debug\calculadora de binarios.exe
+C:\Users\Lea\Desktop\calculadora de binarios3\calculadora de binarios\obj\x86\Debug\calculadora de binarios.pdb
+C:\Users\Lea\Desktop\calculadora de binarios3\calculadora de binarios\bin\Debug\calculadora de binarios.exe
+C:\Users\Lea\Desktop\calculadora de binarios3\calculadora de binarios\bin\Debug\calculadora de binarios.pdb
+C:\Users\Lea\Desktop\calculadora de binarios3\calculadora de binarios\obj\x86\Debug\calculadora de binarios.csprojResolveAssemblyReference.cache
+C:\Users\Lea\Desktop\calculadora de binarios3\calculadora de binarios\obj\x86\Debug\calculadora_de_binarios.Form1.resources
+C:\Users\Lea\Desktop\calculadora de binarios3\calculadora de binarios\obj\x86\Debug\calculadora_de_binarios.Properties.Resources.resources
+C:\Users\Lea\Desktop\calculadora de binarios3\calculadora de binarios\obj\x86\Debug\calculadora de binarios.csproj.GenerateResource.Cache
+C:\Users\Lea\Desktop\calculadora de binarios4\calculadora de binarios\obj\x86\Debug\calculadora de binarios.exe
+C:\Users\Lea\Desktop\calculadora de binarios4\calculadora de binarios\obj\x86\Debug\calculadora de binarios.pdb
